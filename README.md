@@ -2,7 +2,7 @@
 
 This app requires [Node.js](https://nodejs.org/) and [Docker](https://docs.docker.com/get-docker/) to run.
 
-To start the server clone the repositry and run docker-compose
+To start the server clone the repository and run docker-compose
 
 ```sh
 git clone https://github.com/healertrix/Microservice-Assignment.git
